@@ -14,98 +14,84 @@ public class String1Test
     private String1 testStrings = new String1();
 
     @Test
-    void helloNameTest(){
+    public void helloNameTest(){
         assertEquals("Hello Bob!", testStrings.helloName("Bob"));
         assertEquals("Hello Alice!", testStrings.helloName("Alice"));
         assertEquals("Hello X!",testStrings.helloName("X"));
     }
 
     @Test
-    void makeAbbaTest(){
+    public void makeAbbaTest(){
 
     }
 
     @Test
-    void makeTagsTest(){
+    public void makeTagsTest(){
 
     }
 
     @Test
-    void makeOutWordTest(){
+    public void makeOutWordTest(){
 
     }
 
     @Test
-    void extraEndTest(){
+    public void extraEndTest(){
 
     }
 
     @Test
-    void firstTwoTest(){
+    public void firstTwoTest(){
 
     }
 
     @Test
-    void withoutEndTest(){
+    public void withoutEndTest(){
 
     }
 
     @Test
-    void comboStringTest(){
+    public void comboStringTest(){
 
     }
 
     @Test
-    void middleThreeTest(){
+    public void middleThreeTest(){
 
     }
 
     @Test
-    void extraFrontTest(){
+    public void extraFrontTest(){
 
     }
 
     @Test
-    void left2Test(){
+    public void left2Test(){
 
     }
 
     @Test
-    void hasBadTest(){
+    public void hasBadTest(){
 
     }
 
     @Test
-    void conCatTest(){
+    public void conCatTest(){
 
     }
 
     @Test
-    void minCatTest(){
+    public void minCatTest(){
 
     }
 
     @Test
-    void withoutXTest(){
+    public void withoutXTest(){
 
     }
 
     @Test
-    void deFrontTest(){
+    public void deFrontTest(){
 
-    }
-
-    public String1Test()
-    {
-    }
-
-    @BeforeEach
-    public void setUp()
-    {
-    }
-
-    @AfterEach
-    public void tearDown()
-    {
     }
 }
