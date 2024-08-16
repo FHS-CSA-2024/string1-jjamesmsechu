@@ -8,8 +8,8 @@
   - Total of 34 points
 - I recommend submitting when finished with each method just in case
 
-### Statements Required: 
+## Statements Required: 
 - See methods for requirements
 
-### Sample Output:
+## Sample Output:
 - See methods for samples
