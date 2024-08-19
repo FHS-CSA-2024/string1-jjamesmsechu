@@ -1,3 +1,6 @@
+package src.test.java;
+import src.main.java.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
@@ -9,8 +12,7 @@ import org.junit.jupiter.api.Test;
  * @author Mr. Johnson
  * @version 8/12/24 v1 (a version number or a date)
  */
-public class String1Test
-{
+public class TestString1{
     private String1 testStrings = new String1();
 
     @Test
